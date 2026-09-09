@@ -1843,19 +1843,6 @@ a {
     margin-bottom: 1rem;
   }
 }
-.cid-vuJ7KZSnVG .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vuJ7KZSnVG .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
-}
 .cid-vuJ7KZScXy {
   padding-top: 6rem;
   padding-bottom: 6rem;
