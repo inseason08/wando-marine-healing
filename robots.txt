@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inseason08.github.io/wando-marine-healing/sitemap.xml
