@@ -298,13 +298,13 @@
     "siteUrl": "https://inseason08.github.io/wando-marine-healing/",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/-4.png",
-    "mbrsiteDomain": "ybjowrjzu3",
+    "mbrsiteDomain": "8h15jkhcst",
     "imageResize": false,
     "usedWebp": false,
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-3P123FKWZS\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-3P123FKWZS');\n</script>"
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-3G2KVG9FHQ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-3G2KVG9FHQ');\n</script>"
   },
   "pages": {
     "index.html": {
